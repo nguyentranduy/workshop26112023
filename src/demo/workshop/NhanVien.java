@@ -8,7 +8,6 @@ public abstract class NhanVien {
     protected boolean gioiTinh;
     protected ThongTinLienHe thongTinLienHe;
     protected ThongTinHopDong thongTinHopDong;
-
     protected double luongCoBan;
 
     abstract double tinhLuong(XepLoai xepLoai);
